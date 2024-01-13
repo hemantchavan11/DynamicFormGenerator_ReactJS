@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    margin: 0 auto;
+    max-width: 300px;
+    flex-direction: column;   
+    background-color: rgb(228, 244, 239);
+}
+
+button{
+    background-color: rgb(253, 9, 9);
+    color: white;
+    border-radius: 3px;
+}
+
+.addFields{
+    background-color: rgb(129, 191, 249);
+    margin-bottom: 10px;
+}
+.add_btn{
+    color: white;
+    background-color: green;
+}
+.save_btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 200px;
+    background-color: blueviolet;
+    margin: auto;
+}
+FormField{
+
+}
